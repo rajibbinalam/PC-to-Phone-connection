@@ -1,5 +1,5 @@
 # PC-to-Phone-connection
-Usage:
+## Usage:
 1. Download and extract to the C Drive [ C: Folder]
 2. Turn on Developer Option of your Phone
 3. Turn on USB debugging from Developer option
